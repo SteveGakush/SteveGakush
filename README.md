@@ -1,4 +1,4 @@
-## Steve Gakuhi | Salesforce Consultant | Python Developer (Student) | Automation & AI Tools
+## Steve Gakuhi | Salesforce Consultant | Python Developer | Automation & AI Tools
 
 Building practical tools that solve actual problems. Based in Nairobi, Kenya.
 
